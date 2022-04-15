@@ -1,0 +1,19 @@
+- class_name: 友情连接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: Wu JH's Blog
+      link: https://Han-517.github.io/
+      avatar: https://s2.loli.net/2022/04/14/cdlFxTNi7w8JM9X.jpg
+      descr: 来在汐鹿生的海蜗牛
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: 电影狗
+      link: https://www.dianyinggou.com/
+      avatar: https://s2.loli.net/2022/04/14/xZaIK8zsBtl6EWJ.png
+      descr: 能看绝大多数电影电视剧
